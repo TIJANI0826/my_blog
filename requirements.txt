@@ -13,7 +13,7 @@ django-imagekit==4.0.2
 idna==2.10
 Markdown==2.6.11
 pilkit==2.0
-Pillow==5.0.0
+Pillow==9.0.0
 pinax-blog==7.0.1
 pinax-cli==1.1.4
 pinax-images==4.0.1
